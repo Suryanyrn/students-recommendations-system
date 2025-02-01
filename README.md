@@ -66,4 +66,4 @@ The **Student Recommendations System** is an AI-powered model that analyzes stud
 Feel free to fork the repository, create a new branch, and submit a pull request for any improvements!
 
 ## 📄 License
-This project is open-source under the **MIT License**.
+This project is open-source under the **MIT License**. 
