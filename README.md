@@ -67,7 +67,3 @@ Feel free to fork the repository, create a new branch, and submit a pull request
 
 ## 📄 License
 This project is open-source under the **MIT License**.
-
----
-
-🔗 **[Demo or Deployment Link (If Available)]**
